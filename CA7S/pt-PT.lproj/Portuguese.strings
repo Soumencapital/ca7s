@@ -1,0 +1,239 @@
+/* 
+  Portuguese.strings
+  CA7S
+
+  Created by Mansi MacBook Air on 09/07/18.
+  Copyright © 2018 Bhargav. All rights reserved.
+*/
+
+//**********Login Screen ***********
+
+"Email" = "E-mail";
+"Password" = "Palavra Passe";
+"Confirm_Password" = "Confirmar a senha";
+"I_agree_to_the_CA7S_Terms_of_Services_and_Privacy_Policy" = "Eu conconrdo com os Termos de Serviço e Política de Privacidade do CA7S";
+"Sign_Up" = "Cadastrar";
+"Already_Registered?" = "Já Cadastrado??";
+"SIGN_IN_HERE" = "Faça o login aqui";
+"log_In" = "Entrar";
+"Terms_of_Service" = "Termos de Serviço";
+"Privacy_Policy" = "Política de Privacidade";
+"OR" = "OU";
+
+//**********Sign Up Screen**********
+
+"Forgot_Password" = "Esqueceu a senha?";
+"Login" = "Login";
+"Login_with_Facebook" = "Entrar com Facebook";
+"New_to_CA7S?" = "Ainda não tens conta no CA7S?";
+"SIGN_UP_HERE" = "Crie uma aqui";
+"GiCaLu_Tech_2018.All_rights_reserved" = "GiCaLu Tech 2018. Todos os direitos reservados.";
+
+//**********Forgot Password Screen**********
+
+"Submit" = "Submeter";
+"Done" = "Feito";
+
+//**********Home Screen**********
+
+"Top_Ca7s" = "Top CA7s";
+"Internatinal" = "Internacional";
+"Genre" = "Estilo Musical";
+"Home" = "Menu";
+"Favourites" = "Favoritas";
+"My_Music" = "Ca7s";
+"Search" = "Pesquisar";
+
+//**********Sidebar**********
+
+"User_Name" = "Nome de usuário";
+"I_love" = "Eu Amo";
+"Notification" = "Notificação";
+"Settings" = "Configuração";
+"About" = "Acerca";
+"Help" = "Ajuda";
+"T&S" = "Termos de uso & Privacidade";
+"Rate_Us" = "Classifique o CA7S";
+"Logout" = "Sair";
+
+//**********Profile Screen**********
+
+"Followers" = "Meus Fãs";
+"Following" = "Sou Fã";
+"EDIT_PROFILE" = "Editar Perfil";
+"Add_Music" = "Adicionar Música";
+
+//**********Edit Profile**********
+
+"Change_Photo" = "Trocar Foto";
+"Phone" = "Contacto";
+"Gender" = "Sexo";
+"Male" = "Masculino";
+"Female" = "Feminino";
+"Date_of_Birth" = "Data de Nascimento";
+"Birthdate" = "Aniversário";
+"Your_name" = "Nome";
+"City" = "Cidade";
+"Please_enter_your_name" = "Por favor insira o teu nome";
+"Please_enter_date" = "Por favor insira Data";
+"Please_enter_year" = "Por favor insira o ano";
+"Please_enter_month" = "Por favor insira o mês";
+
+//**********Following Screen**********
+
+"No_Data_Found" = "Lista Vazia";
+
+//**********Settings Screen**********
+
+"Select_Language" = "Selecionar Idioma";
+"Private_Account" = "Conta Privada";
+"Clear_Search_History" = "Limpar Histórico de Pesquisa";
+"Change_Password" = "Alterar Senha";
+"English" = "Inglês";
+"Portuguese" = "Português";
+
+//**********Genre Screen**********
+
+"Genre" = "Estilo Musical";
+
+//**********Now Playing Screen**********
+
+"Now_Playing" = "A Tocar";
+
+//**********Album Screen**********
+
+"Album" = "Coleções";
+"Songs" = "Músicas";
+"Playlist" = "Playlist";
+"Like" = "Votar";
+"Add_to_Playlist" = "Adicionar à Playlist";
+"Add_to_Favorites" = "Adicionar aos Favoritos";
+"Download_Song" = "Baixar Música";
+"Share_Song" = "Partilhar";
+
+//**********Search Screen**********
+
+"Song_Name" = "Título da Música";
+"OR" = "Ou";
+"Tap_To_Scan" = "Pressione ícone CA7S para escanear a música que está á tocar";
+"Search" = "Pesquisar";
+"Search_Track_List" = "Resultados da Pesquisa";
+
+//**********Upload Song Screen**********
+
+"Uploaded_Music" = "Minhas Músicas";
+"Add_Music" = "Adicionar Música";
+"Add_Artwork" = "Adicionar Capa";
+"Add_Lyrics" = "Adicionar Letra";
+"Song_Title" = "Título da Música";
+"Album_Name" = "Nome do Álbum";
+"Artist_Name" = "Nome do Artista";
+"Public" = "Pública";
+"Private" = "Privada";
+"Only_Me" = "Para mim";
+
+//**********Upload Lyrics Screen**********
+
+"Paste_lyrics_here" = "Cole a letra aqui";
+"SAVE" = "Salvar";
+
+//**********Notification Pending Screen**********
+
+"Pending_Request" = "Pedidos em Espera";
+"Accept" = "Aceitar";
+"Decline" = "Recusar";
+
+//**********Add Music Screen**********
+
+"Select Music" = "Selecionar Múscia";
+"Search Music" = "Pesquisar Música";
+"Artist" = "Arstista";
+"Albums" = "Álbuns";
+"Songs" = "Músicas";
+"Composers" = "Compositores";
+"Compilation" = "Compilação";
+"Please Select an Option" = "Por favor escolha uma opção";
+"Camera" = "Câmera";
+"Gallery" = "Galeria";
+"Dismiss" = "Cancelar";
+
+//**********Responsive Message**********
+
+"Remove" = "Remover";
+"Would_you_like_to_delete_this_notification?" = "Gostarias de apagar essa notificação?";
+"Delete" = "Apagar";
+"Cancel" = "Cancelar";
+"Are_you_sure_want_to_delete_this_music?" = "Tem a certeza que deseja apagar essa música?";
+"Yes" = "Sim";
+"No" = "Não";
+"no_results_found" = "Sem Resultados";
+"Data_not_found" = "Vazio";
+"Are_you_sure_you_want_to_delete_search_history?" = " Tem a certeza que deseja apagar o Histórico de Pesquisa?";
+"Are_you_sure_you_want_to_remove?" = " Tem a certeza que deseja remover?";
+"Unfollow" = "Deixar de ser Fã";
+"Are_you_sure_you_want_to_logout" = "Tem a certeza que desja sair?";
+"Are_you_sure_you_want_to_delete_this_music?" = "Tem a certeza que deseja apagar essa música?";
+"Are_you_sure_you_want_to_unfollow?" = "Tem a certeza que quer deixar de ser fã?";
+"Error" = "Erro";
+"Recording_failed." = "Falha na gravação";
+"Audio_file_is_missing." = "Ficheiro Áudio em falta";
+"Something_went_wrong" = "Tente outra vez";
+"Are_you_sure_you_want_to_delete_this_search_history?" = "Tem a certeza que deseja limpar o histórico de pesquisa?";
+"Under_Development" = "Brevemente";
+"CA7S_uses_media_library_to_select_media_and_upload_to_ypur_account." = "CA7S utiliza a sua pasta de música para carregá-las na sua conta";
+"CA7S_want_to_use_Camera" = "CA7S pretende aceder à sua câmera";
+"CA7S_uses_microphone" = "CA7S pretende aceder o microfone";
+"CA7S_want_to_use_Photo_Library" = "CA7S pretende aceder à sua pasta de fotos";
+"Pending" = "Em espera";
+
+//**********Validation Message**********
+
+"Please enter email" = "Por favor insira o e-mail";
+"OK" = "OK";
+"Please enter password" = "Por favor insira a senha";
+"Please enter confirm password" = "Por favor confirme a senha";
+"Please enter valid email" = "Por favor insira e-mail válido";
+"invalid login credential" = "E-mail ou Senha errada";
+"Enter Valid Password" = "Insira uma senha válida";
+"Password_should_contain_Minimum_6_characters_and_maximum_12_and_should_have_at_least_1_Uppercase_Alphabet,_1_Lowercase_Alphabet,_1_Number_and_1_Special_Character" =  "Password should contain Minimum 6 characters and maximum 12 and should have at least 1 Uppercase Alphabet, 1 Lowercase Alphabet, 1 Number and 1 Special Character";
+"Please_accept_Terms_and_condition" = "Por favor aceitar os Termos e Condições";
+"An_email_has_been_sent_to_you_for_verification" = "Foi-lhe enviado um e-mail de verificação...";
+"required_parameter" = "Dado obrigatório";
+"email_already_exit" = "Esse e-mail já está em uso";
+"Please_select_Audio_file_to_upload" = "Por favor selecione um ficheiro áudio";
+"Nothing_to_update" = "Sem alterações";
+"required_parameter" = "Dado obrigatório";
+"Password_is_not_matched" = "As senhas não coincidem";
+"Please_enter_city" = "Por favor escolha a cidade";
+"Email_address_or_phone_number" = "E-mail ou número de telefone";
+"Facebook_password" = "Senha do Facebook";
+"Please_enter_old_password" = "Por favor insira a senha antiga";
+"Please_enter_valid_old_password" = "Por favor insira uma senha antiga válida";
+"Please_enter_new_password" = "Por favor insira nova senha";
+"Please_enter_valid_new_password" = "Por favor insira uma nova senha válida";
+"Please_enter_confirm_password" = "Por favor confirme a senha";
+"Your_confirm_password_not_matched_with_new_password" = "Senha de confirmação não condiz com a nova senha";
+"Please_enter_valid_phone_number" = "Por favor insira um número de telefone válido";
+"Please_enter_phone_number" = "Por favor insira número de telefone";
+"Please_Enter_song_title" = "Por favor insira o título da música";
+"Please_Enter_album_name" = "Por favor insira o nome do álbum";
+"Please_Enter_artist_name" = "Por favor insira o nome do artista";
+"Please_select_genre" = "Por favor selecione o estilo musical";
+"Uploading_failed" = "Falha no carregamento";
+
+"This_song_is_downloading" = "A baixar esta música";
+"This_song_is_already_downloaded" = "Música já baixada";
+"Brand_New" = "Novidades";
+"Would_you_like_to_delete_all_notification?" = "Gostaria de apagar todas as notificações?";
+"Notification_cleared" = "Notificação esvaziada";
+"Lyrics_not_available" = "Ca7 sem letra.";
+"upload_successfully" = "Upload feito com sucesso";
+"re-login_or_try_again." = "Faça o login e tenta outra vez";
+
+
+
+
+
+
+
+

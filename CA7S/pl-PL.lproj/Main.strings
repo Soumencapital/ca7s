@@ -1,0 +1,138 @@
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "0hG-Mh-9VF"; */
+"0hG-Mh-9VF.placeholder" = "Old Password";
+
+/* Class = "UIButton"; normalTitle = "   Logout"; ObjectID = "14s-il-tgc"; */
+"14s-il-tgc.normalTitle" = "   Logout";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "1jo-Am-6aq"; */
+"1jo-Am-6aq.text" = "OR";
+
+/* Class = "UILabel"; text = "Sign Up with"; ObjectID = "2K6-ur-Xe0"; */
+"2K6-ur-Xe0.text" = "Sign Up with";
+
+/* Class = "UIButton"; normalTitle = "    Login with Facebook"; ObjectID = "AVB-95-ra9"; */
+"AVB-95-ra9.normalTitle" = "    Login with Facebook";
+
+/* Class = "UIButton"; normalTitle = "New to CA7S?"; ObjectID = "CCG-eG-lEu"; */
+"CCG-eG-lEu.normalTitle" = "New to CA7S?";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "CtT-gW-U08"; */
+"CtT-gW-U08.text" = "Help";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "E4U-JL-beX"; */
+"E4U-JL-beX.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "F8e-iy-RaN"; */
+"F8e-iy-RaN.text" = "About Us";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "GYx-sN-0fe"; */
+"GYx-sN-0fe.text" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "HXN-JO-mCx"; */
+"HXN-JO-mCx.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "J7d-Fr-zUh"; */
+"J7d-Fr-zUh.text" = "Forgot Password";
+
+/* Class = "UILabel"; text = "GiCaLu Tech 2018. All rights reserved"; ObjectID = "K9B-YM-hm7"; */
+"K9B-YM-hm7.text" = "GiCaLu Tech 2018. All rights reserved";
+
+/* Class = "UIButton"; normalTitle = "   Rate Us"; ObjectID = "KPW-sB-ucw"; */
+"KPW-sB-ucw.normalTitle" = "   Rate Us";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "O8y-yH-i6l"; */
+"O8y-yH-i6l.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Sign Up with"; ObjectID = "Oya-D3-C6D"; */
+"Oya-D3-C6D.text" = "Sign Up with";
+
+/* Class = "UIButton"; normalTitle = "Already Registered?"; ObjectID = "QXt-CP-yGn"; */
+"QXt-CP-yGn.normalTitle" = "Already Registered?";
+
+/* Class = "UITextField"; placeholder = "Email "; ObjectID = "SfI-az-rio"; */
+"SfI-az-rio.placeholder" = "Email ";
+
+/* Class = "UITextField"; placeholder = "Email "; ObjectID = "UtF-Nm-h0X"; */
+"UtF-Nm-h0X.placeholder" = "Email ";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "VnC-5a-sZm"; */
+"VnC-5a-sZm.normalTitle" = "Forgot Password?";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "W5O-XB-2re"; */
+"W5O-XB-2re.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Durban"; ObjectID = "WAT-vb-6hr"; */
+"WAT-vb-6hr.text" = "Durban";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "XQU-TM-EXd"; */
+"XQU-TM-EXd.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN HERE"; ObjectID = "a6k-YU-12Q"; */
+"a6k-YU-12Q.normalTitle" = "SIGN IN HERE";
+
+/* Class = "UILabel"; text = "2 Days ago"; ObjectID = "bkM-oB-Etz"; */
+"bkM-oB-Etz.text" = "2 Days ago";
+
+/* Class = "UILabel"; text = "GiCaLu Tech 2018. All rights reserved"; ObjectID = "cIa-Bn-ij4"; */
+"cIa-Bn-ij4.text" = "GiCaLu Tech 2018. All rights reserved";
+
+/* Class = "UILabel"; text = "Dummy Title"; ObjectID = "e25-Af-vEx"; */
+"e25-Af-vEx.text" = "Dummy Title";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "e5h-dB-3tg"; */
+"e5h-dB-3tg.text" = "Change Password";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP HERE"; ObjectID = "eZq-dp-yRk"; */
+"eZq-dp-yRk.normalTitle" = "SIGN UP HERE";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "fKl-wO-QAF"; */
+"fKl-wO-QAF.placeholder" = "Phone";
+
+/* Class = "UILabel"; text = "Dummy Title"; ObjectID = "fQc-bS-ILu"; */
+"fQc-bS-ILu.text" = "Dummy Title";
+
+/* Class = "UIButton"; normalTitle = "Phone"; ObjectID = "ggt-IY-bkk"; */
+"ggt-IY-bkk.normalTitle" = "Phone";
+
+/* Class = "UILabel"; text = "Terms & Condition"; ObjectID = "hZv-Jh-YYd"; */
+"hZv-Jh-YYd.text" = "Terms & Condition";
+
+/* Class = "UIButton"; normalTitle = "   Rate Us"; ObjectID = "lOX-7D-y1J"; */
+"lOX-7D-y1J.normalTitle" = "   Rate Us";
+
+/* Class = "UILabel"; text = "Your Name"; ObjectID = "m7d-6f-l9Z"; */
+"m7d-6f-l9Z.text" = "Your Name";
+
+/* Class = "UIButton"; normalTitle = "   Share"; ObjectID = "oGD-p9-GJR"; */
+"oGD-p9-GJR.normalTitle" = "   Share";
+
+/* Class = "UILabel"; text = "I"; ObjectID = "pZW-a3-hko"; */
+"pZW-a3-hko.text" = "I";
+
+/* Class = "UILabel"; text = "I agree to the CA7S Terms of Service and Privacy Policy"; ObjectID = "qLT-u5-l8t"; */
+"qLT-u5-l8t.text" = "I agree to the CA7S Terms of Service and Privacy Policy";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "t8P-Sj-OI2"; */
+"t8P-Sj-OI2.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "tsF-fe-Bx9"; */
+"tsF-fe-Bx9.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "uVE-AQ-683"; */
+"uVE-AQ-683.placeholder" = "Confirm Password";
+
+/* Class = "UITextField"; placeholder = "Email "; ObjectID = "uY5-Hp-0bt"; */
+"uY5-Hp-0bt.placeholder" = "Email ";
+
+/* Class = "UIButton"; normalTitle = "Email"; ObjectID = "wTG-iy-zTC"; */
+"wTG-iy-zTC.normalTitle" = "Email";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "xDl-nS-Q6l"; */
+"xDl-nS-Q6l.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "yYJ-Gl-WPf"; */
+"yYJ-Gl-WPf.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "zKu-Zy-9Ps"; */
+"zKu-Zy-9Ps.text" = "Notifications";

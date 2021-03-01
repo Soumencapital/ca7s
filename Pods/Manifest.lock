@@ -1,0 +1,142 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.4.1)
+  - Alamofire (4.6.0)
+  - Alamofire-SwiftyJSON (3.0.0):
+    - Alamofire (~> 4.5)
+    - SwiftyJSON (~> 4.0.0)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - Firebase/Core (4.7.0):
+    - FirebaseAnalytics (= 4.0.5)
+    - FirebaseCore (= 4.0.12)
+  - Firebase/Messaging (4.7.0):
+    - Firebase/Core
+    - FirebaseMessaging (= 2.0.7)
+  - FirebaseAnalytics (4.0.5):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+    - nanopb (~> 0.3)
+  - FirebaseCore (4.0.12):
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseInstanceID (2.0.7)
+  - FirebaseMessaging (2.0.7):
+    - FirebaseAnalytics (~> 4.0)
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - GoogleToolboxForMac/Logger (~> 2.1)
+    - Protobuf (~> 3.1)
+  - Gallery (2.2.2)
+  - GoogleToolboxForMac/Defines (2.1.3)
+  - GoogleToolboxForMac/Logger (2.1.3):
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - "GoogleToolboxForMac/NSData+zlib (2.1.3)":
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - iCarousel (1.8.3)
+  - ImageSlideshow (1.8.0):
+    - ImageSlideshow/Core (= 1.8.0)
+  - ImageSlideshow/Alamofire (1.8.0):
+    - AlamofireImage (~> 3.0)
+    - ImageSlideshow/Core
+  - ImageSlideshow/Core (1.8.0)
+  - IQKeyboardManagerSwift (5.0.6)
+  - Localize-Swift (2.0.0)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - ObjectMapper (3.5.1)
+  - PopoverKit (0.2.0)
+  - Protobuf (3.5.0)
+  - PullToRefresher (3.1)
+  - SDWebImage (4.2.2):
+    - SDWebImage/Core (= 4.2.2)
+  - SDWebImage/Core (4.2.2)
+  - SVProgressHUD (2.2.2)
+  - SwiftGifOrigin (1.7.0)
+  - SwiftyJSON (4.0.0)
+  - TTGTagCollectionView (1.11.1)
+  - YXWaveView (0.5.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire-SwiftyJSON (~> 3.0)
+  - Firebase/Core
+  - Firebase/Messaging
+  - Gallery
+  - iCarousel
+  - ImageSlideshow (= 1.8.0)
+  - ImageSlideshow/Alamofire
+  - IQKeyboardManagerSwift (~> 5.0)
+  - Localize-Swift (~> 2.0)
+  - ObjectMapper (~> 3.4)
+  - PopoverKit (~> 0.2.0)
+  - PullToRefresher (~> 3.1)
+  - SDWebImage (~> 4.0)
+  - SVProgressHUD
+  - SwiftGifOrigin (~> 1.7.0)
+  - TTGTagCollectionView
+  - YXWaveView
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Alamofire-SwiftyJSON
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - GoogleToolboxForMac
+    - iCarousel
+    - IQKeyboardManagerSwift
+    - Localize-Swift
+    - nanopb
+    - ObjectMapper
+    - PopoverKit
+    - Protobuf
+    - PullToRefresher
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftGifOrigin
+    - SwiftyJSON
+    - TTGTagCollectionView
+    - YXWaveView
+  trunk:
+    - ActionSheetPicker-3.0
+    - AlamofireImage
+    - Gallery
+    - ImageSlideshow
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: d236f0b663123e4b404a3bc04b338c1e805ac910
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Alamofire-SwiftyJSON: 2b3649d57dc7bb2880fb8b86f8bb969397666916
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  Firebase: dbfb98ccec2dcfcd21ab9cc1b4981a3f3c8c5e26
+  FirebaseAnalytics: 5b02a63ead2c3f0259cfc7f15e053e440587ecf8
+  FirebaseCore: 6cf108b63997bc08c04a1ffa55a3ac0d71a59ffc
+  FirebaseInstanceID: 148c25c986c8699e67304b114e365713dce467f2
+  FirebaseMessaging: 1a11d1c0a9ed9b3f75a0685bb0ae5932e1062f5f
+  Gallery: 634ea7d58b93fcb8e787a846febac73ec354e7d9
+  GoogleToolboxForMac: 2501e2ad72a52eb3dfe7bd9aee7dad11b858bd20
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  ImageSlideshow: 197130fe349aafa9446f54277c792551d41eadf9
+  IQKeyboardManagerSwift: 02bfbb0dff71c66d0ab77d80d25dfce0c3717735
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  PopoverKit: dbbc7f0c45070ac76a24da0183da90d3d417d8a8
+  Protobuf: 8a9838fba8dae3389230e1b7f8c104aa32389c03
+  PullToRefresher: ec8c1942bd61bb512ff520c49f9f00903cfa86c7
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  TTGTagCollectionView: 86fcbfa6a7493c9e860b01c2e693cffc8acf6de1
+  YXWaveView: 3570d7244b08effd077a5c63b0693aa44b7cd369
+
+PODFILE CHECKSUM: e2fa4848ac5a0a88b69508031b7094d7d9334929
+
+COCOAPODS: 1.8.4

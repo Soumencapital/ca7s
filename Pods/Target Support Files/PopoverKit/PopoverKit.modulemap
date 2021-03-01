@@ -1,0 +1,6 @@
+framework module PopoverKit {
+  umbrella header "PopoverKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

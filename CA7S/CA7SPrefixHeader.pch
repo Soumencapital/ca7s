@@ -1,0 +1,17 @@
+//
+//  CA7SPrefixHeader.pch
+//  CA7S
+//
+//  Created by Bhargav on 23/05/18.
+//  Copyright © 2018 Bhargav. All rights reserved.
+//
+
+#ifndef CA7SPrefixHeader_pch
+#define CA7SPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+
+#endif /* CA7SPrefixHeader_pch */

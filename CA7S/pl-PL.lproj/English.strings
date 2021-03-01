@@ -1,0 +1,231 @@
+/* 
+  English.strings
+  CA7S
+
+  Created by Mansi MacBook Air on 09/07/18.
+  Copyright © 2018 Bhargav. All rights reserved.
+*/
+
+//**********Login Screen ***********
+
+"Email" = "Email";
+"Password" = "Password";
+"Confirm_Password" = "Confirm Password";
+"I_agree_to_the_CA7S_Terms_of_Services_and_Privacy_Policy" = "I agree to the CA7S Terms of Services and Privacy Policy";
+"Sign_Up" = "Sign Up";
+"Already_Registered?" = "Already Registered?";
+"SIGN_IN_HERE" = "SIGN IN HERE";
+"log_In" = "log In";
+"Terms_of_Service" = "Terms of Service";
+"Privacy_Policy" = "Privacy Policy";
+"OR" = "OR";
+
+//**********Sign Up Screen**********
+
+"Forgot_Password" = "Forgot Password";
+"Login" = "Login";
+"Login_with_Facebook" = "Login with Facebook";
+"New_to_CA7S?" = "New to CA7S?";
+"SIGN_UP_HERE" = "SIGN UP HERE";
+"GiCaLu_Tech_2018.All_rights_reserved" = "GiCaLu Tech 2018.All rights reserved";
+
+//**********Forgot Password Screen**********
+
+"Submit" = "Submit";
+"Done" = "Done";
+
+//**********Home Screen**********
+
+"Top_Ca7s" = "Top Ca7s";
+"Internatinal" = "Internatinal";
+"Genre" = "Genre";
+"Home" = "Home";
+"Favourites" = "Favourites";
+"My_Music" = "My Music";
+"Search" = "Search";
+
+//**********Sidebar**********
+
+"User_Name" = "User Name";
+"I_love" = "I love";
+"Notification" = "Notification";
+"Settings" = "Settings";
+"About" = "About";
+"Help" = "Help";
+"T&S" = "T&S";
+"Rate_Us" = "Rate Us";
+"Logout" = "Logout";
+
+//**********Profile Screen**********
+
+"Followers" = "Followers";
+"Following" = "Following";
+"EDIT_PROFILE" = "EDIT PROFILE";
+"Add_Music" = "Add Music";
+
+//**********Edit Profile**********
+
+"Change_Photo" = "Change Photo";
+"Phone" = "Phone";
+"Gender" = "Gender";
+"Male" = "Male";
+"Female" = "Female";
+"Date_of_Birth" = "Date of Birth";
+"Birthdate" = "Birthdate";
+"Your_name" = "Your name";
+"City" = "City";
+"Please_enter_your_name" = "Please enter your name";
+"Please_enter_date" = "Please enter date";
+"Please_enter_year" = "Please enter year";
+"Please_enter_month" = "Please enter month";
+
+//**********Following Screen**********
+
+"No_Data_Found" = "No Data Found";
+
+//**********Settings Screen**********
+
+"Select_Language" = "Select Language";
+"Private_Account" = "Private Account";
+"Clear_Search_History" = "Clear Search History";
+"Change_Password" = "Change Password";
+"English" = "English";
+"Portuguese" = "Portuguese";
+
+//**********Genre Screen**********
+
+"Genre" = "Genre";
+
+//**********Now Playing Screen**********
+
+"Now_Playing" = "Now Playing";
+
+//**********Album Screen**********
+
+"Album" = "Album";
+"Songs" = "Songs";
+"Playlist" = "Playlist";
+"Like" = "Like";
+"Add_to_Playlist" = "Add to Playlist";
+"Add_to_Favorites" = "Add to Favorites";
+"Download_Song" = "Download Song";
+"Share_Song" = "Share Song";
+
+//**********Search Screen**********
+
+"Song_Name" = "Song Name";
+"OR" = "OR";
+"Tap_To_Scan" = "Tap To Scan";
+"Search" = "Search";
+"Search_Track_List" = "Search Track List";
+
+//**********Upload Song Screen**********
+
+"Uploaded_Music" = "Uploaded Music";
+"Add_Music" = "Add Music";
+"Add_Artwork" = "Add Artwork";
+"Add_Lyrics" = "Add Lyrics";
+"Song_Title" = "Song Title";
+"Album_Name" = "Album Name";
+"Artist_Name" = "Artist Name";
+"Public" = "Public";
+"Private" = "Private";
+"Only_Me" = "Only Me";
+
+//**********Upload Lyrics Screen**********
+
+"Paste_lyrics_here" = "Paste lyrics here...";
+"SAVE" = "SAVE";
+
+//**********Notification Pending Screen**********
+
+"Pending_Request" = "Pending Request";
+"Accept" = "Accept";
+"Decline" = "Decline";
+
+//**********Add Music Screen**********
+
+"Select Music" = "Select_Music";
+"Search Music" = "Search_Music";
+"Artist" = "Artist";
+"Albums" = "Albums";
+"Songs" = "Songs";
+"Composers" = "Composers";
+"Compilation" = "Compilation";
+"Please Select an Option" = "Please_Select_an_Option";
+"Camera" = "Camera";
+"Gallery" = "Gallery";
+"Dismiss" = "Dismiss";
+
+//**********Responsive Message**********
+
+"Remove" = "Remove";
+"Would_you_like_to_delete_this_notification?" = "Would you like to delete this notification?";
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+"Are_you_sure_want_to_delete_this_music?" = "Are you sure want to delete this music?";
+"Yes_" = "Yes";
+"No" = "No";
+"no_results_found" = "no results found";
+"Data_not_found" = "Data not found";
+"Are_you_sure_you_want_to_delete_search_history?" = "Are you sure you want to delete search history?";
+"Are_you_sure_you_want_to_remove?" = "Are you sure you want to remove?";
+"Unfollow" = "Unfollow";
+"Are_you_sure_you_want_to_logout" = "Are you sure you want to logout";
+"Are_you_sure_you_want_to_delete_this_music?" = "Are you sure you want to delete this music?";
+"Are_you_sure_you_want_to_unfollow?" = "Are you sure you want to unfollow?";
+"Error" = "Error";
+"Recording_failed." = "Recording failed.";
+"Audio_file_is_missing." = "Audio file is missing.";
+"Something_went_wrong" = "Something went wrong";
+"Are_you_sure_you_want_to_delete_this_search_history?" = "Are you sure you want to delete this search history?";
+"Under_Development" = "Under Development";
+"CA7S_uses_media_library_to_select_media_and_upload_to_ypur_account." = "CA7S uses media library to select media and upload to ypur account.";
+"CA7S_want_to_use_Camera" = "CA7S want to use Camera";
+"CA7S_uses_microphone" = "CA7S uses microphone";
+"CA7S_want_to_use_Photo_Library" = "CA7S want to use Photo Library";
+"Pending" = "Pending";
+
+//**********Validation Message**********
+
+"Please enter email" = "Please enter email";
+"OK" = "OK";
+"Please enter password" = "Please enter password";
+"Please enter confirm password" = "Please enter confirm password";
+"Please enter valid email" = "Please enter valid email";
+"invalid login credential" = "invalid login credential";
+"Enter Valid Password" = "Enter Valid Password";
+"Password_should_contain_Minimum_6_characters_and_maximum_12_and_should_have_at_least_1_Uppercase_Alphabet,_1_Lowercase_Alphabet,_1_Number_and_1_Special_Character" = "A Senha deve conter no minímo 6 caractéres e máximo 12, e deve ter pelo menos uma Letra maiúscula, uma minúscula, um número e um caractér especial.";
+"Please_accept_Terms_and_condition" = "Please accept Terms and condition";
+"An_email_has_been_sent_to_you_for_verification" = "An email has been sent to you for verification...";
+"required_parameter" = "required parameter";
+"email_already_exit" = "email already exit";
+"Please_select_Audio_file_to_upload" = "Please select Audio file to upload";
+"Nothing_to_update" = "Nothing to update";
+"required_parameter" = "required parameter";
+"Password_is_not_matched" = "Password is not matched";
+"Please_enter_city" = "Please enter city";
+"Email_address_or_phone_number" = "Email address or phone number";
+"Facebook_password" = "Facebook password";
+"Please_enter_old_password" = "Please enter old password";
+"Please_enter_valid_old_password" = "Please enter valid old password";
+"Please_enter_new_password" = "Please enter new password";
+"Please_enter_valid_new_password" = "Please enter valid new password";
+"Please_enter_confirm_password" = "Please enter confirm password";
+"Your_confirm_password_not_matched_with_new_password" = "Your confirm password not matched with new password";
+"Please_enter_valid_phone_number" = "Please enter valid phone number";
+"Please_enter_phone_number" = "Please enter phone number";
+"Please_Enter_song_title" = "Please Enter song title";
+"Please_Enter_album_name" = "Please Enter album name";
+"Please_Enter_artist_name" = "Please Enter artist name";
+"Please_select_genre" = "Please select genre";
+"Uploading_failed" = "Uploading failed";
+
+"This_song_is_downloading" = "This song is downloading";
+"This_song_is_already_downloaded" = "This song is already downloaded";
+"Brand_New" = "Brand New";
+"Would_you_like_to_delete_all_notification?" = "Would you like to delete all notification?";
+"Notification_cleared" = "Notification cleared";
+"Lyrics_not_available" = "Lyrics not available";
+"upload_successfully" = "upload successfully";
+"re-login_or_try_again." = "re-login or try again.";
